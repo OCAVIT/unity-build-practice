@@ -1,0 +1,36 @@
+# Unity: generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Builds go to the GitHub release, not to git
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+
+# Written by BuildScript before every build
+/Assets/Resources/BuildInfo.txt
+/Assets/Resources/BuildInfo.txt.meta
+/Assets/Resources.meta
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
